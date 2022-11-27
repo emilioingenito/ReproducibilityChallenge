@@ -1,0 +1,3 @@
+processed 71042 tokens with 3061 phrases; found: 1116 phrases; correct: 593.
+accuracy:  91.87%; precision:  53.14%; recall:  19.37%; FB1:  28.39
+             GENE: precision:  53.14%; recall:  19.37%; FB1:  28.39  1116
