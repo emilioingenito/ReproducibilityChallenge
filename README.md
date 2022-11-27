@@ -14,10 +14,10 @@ The main files of this repository - useful to run the experiments - are the foll
 * [produce_emb.py](https://github.com/emilioingenito/ReproducibilityChallenge/blob/main/produce_emb.py): this file geenrates the embedding for a given vocabulary
 * [attacks.py](https://github.com/emilioingenito/ReproducibilityChallenge/blob/main/attacks.py): this file allowed us to corrupt the datasets (i.e. generate another dataset, from the original one, with a specific typo probability)
 * [evaluate.py](https://github.com/emilioingenito/ReproducibilityChallenge/blob/main/evaluate.py): this file performs the **intrinsic task** evaluation
-* [corrupt_Ner.py](): this file corrupts datasets for NER tasks (e.g. CONLL-03, BC2GM), given a specific typo probability
-* [corrupt_CNN.py](): this file corrupts datasets for CNN tasks (e.g. SST2, MR), given a specific typo probability
-* [cnn_text_classification/main.py]() : this file performs the **CNN extrinsic task** evaluation 
-* [rnn_ner/main.py](): this file performs the **NER extrinsic task** evaluation  
+* [corrupt_Ner.py](https://github.com/emilioingenito/ReproducibilityChallenge/tree/main/dataset_corruption/corrupt_Ner.py): this file corrupts datasets for NER tasks (e.g. CONLL-03, BC2GM), given a specific typo probability
+* [corrupt_CNN.py](https://github.com/emilioingenito/ReproducibilityChallenge/tree/main/dataset_corruption/corrupt_CNN.py): this file corrupts datasets for CNN tasks (e.g. SST2, MR), given a specific typo probability
+* [cnn_text_classification/main.py](https://github.com/emilioingenito/ReproducibilityChallenge/tree/main/extrinsic/cnn_text_classification/main.py) : this file performs the **CNN extrinsic task** evaluation 
+* [rnn_ner/main.py](https://github.com/emilioingenito/ReproducibilityChallenge/tree/main/extrinsic/rnn_ner/main.py): this file performs the **NER extrinsic task** evaluation  
 
 ## How to train the model
 
