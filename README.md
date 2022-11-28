@@ -5,7 +5,7 @@ This repository is the implementation of the reproducibility challenge carried o
 
 ## How to run our experiments
 
-In order to reproduce the results of our analysis, you can exploit the Jupyter Notebook file we provided, which allows to run the analysis through a step by step procedure, as suggested by the authors. To this end, please check out the file [ReproducibilityChallenge_LOVE.ipynb](https://github.com/emilioingenito/ReproducibilityChallenge/edit/main/ReproducibilityChallenge_LOVE.ipynb). In this file you will also find charts and tables, in which we show the main results of our analysis.
+In order to reproduce the results of our analysis, you can exploit the Jupyter Notebook file we provided, which allows to run the analysis through a step by step procedure, as suggested by the authors. To this end, please check out the [Jupiter Notebook](https://colab.research.google.com/drive/1KzQdaS-mw-JF6QskItz-29wqJhSPM6V6). In this file you will also find charts and tables, in which we show the main results of our analysis.
 
 ## Main files
 
