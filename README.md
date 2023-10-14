@@ -1,5 +1,5 @@
 
-# Reproducibility challenge: Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost
+# Reproducibility challenge: Natural Lenguage Processing
 * The aim of this project is to reproduce the results of the paper [Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost](https://arxiv.org/abs/2203.07860) for the Natual Language Processing course.
 * The paper tries to address the problem of extending the word representation of an existing pre-trained language model like FastText and makes it robust to Out Of Vocabulary (OOV) words.
 * The authors uses a simple contrastive learning framework called LOVE that follows the principle of mimick-like models to generate vectors for unseen words. It is demonstrated that the model achieves similar and better performances than prior competitors, both on original datasets and on corrupted variants. In addition, the performance of the model used in a plug-and-play fashion with FastText and BERT (that we were unable to reproduce) shows the increase in robustness of the model.
