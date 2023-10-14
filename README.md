@@ -20,3 +20,7 @@ Depending on the task, these are the metrics used to compare the performances:
 The results that we obtained strongly support the original claims of the author. The
 strength of our approach is the fact that we were able to reproduce the results both
 on our personal machines (removing CUDA calls) and on the remote machines. 
+
+---
+
+Please refer to [link](/Report.pdf) for a detailed report.
